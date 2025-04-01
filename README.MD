@@ -60,6 +60,25 @@ Here is the Hashscan link showing the transfer of funds:
   - **Deposit Funds**: Users can deposit HBAR into a pool until the target is met.
   - **Withdraw Funds**: Users can withdraw their contributions before the target is reached.
   - **Deploy Pool**: Once the target amount is deposited, the pool can be deployed for investment use by the owner.
+  
+  The **HBARPoolEscrow** smart contract has been successfully deployed on the Hedera testnet.
+  ![Frontend Demo](assets/contract1.png)
+  You can verify the contract deployment on Hashscan using the following link:  
+[View Smart Contract on Hashscan](https://hashscan.io/testnet/contract/0.0.5805197?ps=1&pr=1&pa=1&pf=1&p=1&k=1743498349.312526364)
+
+![Frontend Demo](assets/contract2.png)
+
+The contract has been verified to ensure transparency and security. This includes checking the correct execution of deposits, withdrawals, and pool deployment.
+![Frontend Demo](assets/contract3.png)
+
+Users can interact with the deployed contract by:
+- Depositing HBAR into the pool.
+- Withdrawing funds before the target is met.
+- Deploying the pool for investment once the target is reached.
+
+**Note:** Since our balance is currently **zero**, attempting a withdrawal results in an error due to insufficient funds.
+
+![Frontend Demo](assets/contract4.png)
 
 ---
 
