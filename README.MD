@@ -113,16 +113,15 @@ Users can interact with the deployed contract by:
 
 ## Milestones & Projections
 
-| Quarter     | Goal                     | Metric Target       |
-|-------------|--------------------------|---------------------|
-| Q4 2024     | MVP Launch               | 1,000 active users  |
-| Q1 2025     | Mobile App Release       | $50k pooled HBAR    |
-| Q3 2025     | Multi-Asset Support      | 10,000 Monthly Active Users |
-| Q4 2025     | DAO Governance           | $1M Total Value Locked (TVL) |
+| Quarter     | Goal                          | Metric Target            |
+|------------|------------------------------|--------------------------|
+| Q2 2025    | MVP Public Launch            | 2,500 active users       |
+| Q3 2025    | Smart Contract Optimization  | $100k pooled HBAR        |
+| Q4 2025    | Multi-Asset & Cross-Chain Support | 15,000 Monthly Active Users |
+| Q1 2026    | DAO Governance & Full Decentralization | $2M Total Value Locked (TVL) |
 
 ---
+
 
 ## Powered by Hedera’s ESG-Aligned Infrastructure 🌱
 Pesadrop leverages Hedera's carbon-negative infrastructure to provide an environmentally responsible, enterprise-grade platform for micro-investing. Pesadrop helps bridge the gap between global capital markets and Kenyan investors while promoting financial inclusion.
-
----
