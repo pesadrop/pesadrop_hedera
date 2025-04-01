@@ -31,6 +31,9 @@ Pesadrop is a decentralized micro-investing platform based in Kenya, built on He
 
 ### Backend
 - **Hedera Integration**: Users can create and manage Hedera accounts using the Hedera JS SDK, enabling seamless wallet interactions for both Kenyan and international users.
+![Frontend Demo](assets/account1.png)
+![Frontend Demo](assets/account2.png)
+
 - **Escrow System**: Investment pools are managed through Hedera Smart Contracts (HIP-482), which handle deposits, withdrawals, and the deployment of funds once the target amount is reached.
 - **Auto-Invest**: Threshold-triggered transactions using Hedera Scheduled Transactions ensure automated investments once a pool reaches the target amount.
 - **Analytics**: Mirror node queries are used for real-time tracking of pool investments and transaction history.
