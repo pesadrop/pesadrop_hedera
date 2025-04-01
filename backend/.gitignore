@@ -1,0 +1,26 @@
+# Node.js dependencies (if using Node.js for backend)
+node_modules/
+
+# Environment variables (Backend .env file)
+.env
+
+# Log files
+*.log
+
+# Database files (if using SQLite or other local DB)
+db/
+
+# Build output (if using any build tool for backend)
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# Test coverage (if you are running tests)
+coverage/
+
+# Package lock files
+package-lock.json
+yarn.lock
