@@ -125,3 +125,9 @@ Users can interact with the deployed contract by:
 
 ## Powered by Hedera’s ESG-Aligned Infrastructure 🌱
 Pesadrop leverages Hedera's carbon-negative infrastructure to provide an environmentally responsible, enterprise-grade platform for micro-investing. Pesadrop helps bridge the gap between global capital markets and Kenyan investors while promoting financial inclusion.
+
+## Pitch Deck  
+[View Our Pitch Deck](https://www.canva.com/design/DAGjCJSR3Bo/SFAEUiSO1CD8IssIc1vEYw/edit?utm_content=DAGjCJSR3Bo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+
