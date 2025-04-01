@@ -34,7 +34,7 @@ client.setOperator(MY_ACCOUNT_ID, MY_PRIVATE_KEY);
 
 async function createUserAccount(initialBalance) {
 
-const newPrivateKey = PrivateKey.generateECDSA(); // ✅ Ensures key consistency
+const newPrivateKey = PrivateKey.generateECDSA(); 
 
 const newPublicKey = newPrivateKey.publicKey;
 
@@ -54,7 +54,7 @@ console.log("✅ New Account Created:");
 
 console.log("Account ID:", newAccountId.toString());
 
-console.log("Private Key:", newPrivateKey.toStringRaw()); // ✅ Cleaner key format
+console.log("Private Key:", newPrivateKey.toStringRaw()); 
 
 console.log("Public Key:", newPublicKey.toStringRaw());
 
