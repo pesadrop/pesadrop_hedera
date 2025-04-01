@@ -78,7 +78,7 @@ Users can interact with the deployed contract by:
 
 **Note:** Since our balance is currently **zero**, attempting a withdrawal results in an error due to insufficient funds.
 
-![Frontend Demo](assets/contract4.png)
+![Frontend Demo](assets/contract5.png)
 
 ---
 
