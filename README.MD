@@ -45,6 +45,12 @@ One user will receive 10 HBAR, while the other receives 5 HBAR.
 Now that both users have accounts and balances, one user can transfer a portion of their HBAR to the other user. For instance, User 1 might send 0.5 HBAR to User 2. This transaction facilitates the pooling of funds for investment.
 ![Frontend Demo](assets/account8.png)
 
+Here is the Hashscan link showing the transfer of funds:
+
+- [View Transaction](https://hashscan.io/testnet/account/0.0.5806287?ph=1&kh=0.0.5806289&ps=1&pc=1&pf=1&pa=1&pr=1&pt=1&pn=1&p3=1)
+![Frontend Demo](assets/account5.png)
+
+
 - **Escrow System**: Investment pools are managed through Hedera Smart Contracts (HIP-482), which handle deposits, withdrawals, and the deployment of funds once the target amount is reached.
 - **Auto-Invest**: Threshold-triggered transactions using Hedera Scheduled Transactions ensure automated investments once a pool reaches the target amount.
 - **Analytics**: Mirror node queries are used for real-time tracking of pool investments and transaction history.
