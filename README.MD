@@ -36,7 +36,9 @@ For this product demo,The process begins by creating two user accounts on the pl
 
 Here are the Hashscan links to both accounts:
 - [Account 1](https://hashscan.io/testnet/account/0.0.5806289?ps=1&pt=1&pa=1&pn=1&pf=1&pr=1&ph=1&pc=1&p3=1)
+![Frontend Demo](assets/account3.png)
 - [Account 2](https://hashscan.io/testnet/account/0.0.5806287?ph=1&kh=0.0.5806289&ps=1&pc=1&pf=1&pa=1&pr=1&pt=1&pn=1&p3=1)
+![Frontend Demo](assets/account4.png)
 
 One user will receive 10 HBAR, while the other receives 5 HBAR.
 ![Frontend Demo](assets/account7.png)
