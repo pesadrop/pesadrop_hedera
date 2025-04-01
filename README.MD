@@ -133,5 +133,5 @@ For updates and inquiries, connect with us:
 
 - 📧 Email: [fyattani@gmail.com](mailto:fyattani@gmail.com)   
 - 🐦 X (Twitter): [@fatumayattani](https://x.com/fatumayattani)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/fatuma-yattani/](https://www.linkedin.com/in/fatuma-yattani/)  
+- 🔗 LinkedIn: [Fatuma Yattani](https://www.linkedin.com/in/fatuma-yattani/)  
 
