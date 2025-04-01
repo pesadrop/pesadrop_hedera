@@ -132,6 +132,6 @@ Pesadrop leverages Hedera's carbon-negative infrastructure to provide an environ
 For updates and inquiries, connect with us:  
 
 - 📧 Email: [fyattani@gmail.com](mailto:fyattani@gmail.com)   
-- 🐦 X (Twitter): [@fatumayattani](https://twitter.com/fyattani)  
+- 🐦 X (Twitter): [@fatumayattani](https://x.com/fatumayattani)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/fatuma-yattani/](https://www.linkedin.com/in/fatuma-yattani/)  
 
