@@ -120,8 +120,8 @@ function App() {
                     alt="Connect Wallet"
                     className="rounded-xl shadow-lg mb-4"
                   />
-                  <h3 className="text-xl font-semibold text-white mb-2">1. Connect Wallet</h3>
-                  <p className="text-green-100">Link your Hedera wallet securely</p>
+                  <h3 className="text-xl font-semibold text-white mb-2">1. Create Account</h3>
+                  <p className="text-green-100">Get your Account ID and keys and start investing securely</p>
                 </div>
                 <div className="relative">
                   <img 
