@@ -31,7 +31,7 @@ function App() {
                 onClick={() => setIsConnected(true)}
                 className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-full font-medium transition-colors"
               >
-                Connect Wallet
+                Create Account
               </button>
             ) : (
               <div className="relative">

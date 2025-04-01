@@ -1,4 +1,3 @@
-[Built on Hedera](https://hedera.com/)
 # Pesadrop MVP (Hedera-Powered Micro-Investing Platform)
 
 **Category**: Capital Markets | **Blockchain**: Hedera Hashgraph | **Stage**: MVP Development
