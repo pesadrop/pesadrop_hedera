@@ -127,7 +127,7 @@ Pesadrop leverages Hedera's carbon-negative infrastructure to provide an environ
 ## Pitch Deck  
 [View Pitch Deck](https://www.canva.com/design/DAGjCJSR3Bo/SFAEUiSO1CD8IssIc1vEYw/edit?utm_content=DAGjCJSR3Bo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-For updates and inquiries, connect with us:  
+For updates and inquiries, get in touch 
 
 - 📧 Email: [fyattani@gmail.com](mailto:fyattani@gmail.com)   
 - 🐦 X (Twitter): [@fatumayattani](https://x.com/fatumayattani)  
