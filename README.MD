@@ -20,8 +20,10 @@ Pesadrop is a decentralized micro-investing platform based in Kenya, built on He
 ## Project Architecture
 
 ### Frontend
-- **User Interface**: The frontend is designed to be intuitive and user-friendly, allowing users to create accounts, view available investment pools, and perform transactions (deposit/withdraw) directly from the dashboard.
+- **User Interface**: The frontend is designed to be intuitive and user-friendly
 ![Frontend Demo](assets/front1.png)
+allowing users to create accounts, view available investment pools, and perform transactions (deposit/withdraw) directly from the dashboard.
+![Frontend Demo](assets/front4.png)
 
 - **Interactive Analytics**: Real-time tracking of pool progress and investment performance via an easy-to-use analytics dashboard.
 
